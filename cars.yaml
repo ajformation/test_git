@@ -1,0 +1,15 @@
+default:
+  car:
+    name: car
+    wheels: 4
+    driver: 1
+    power: 100
+    seats: 4
+
+cars:
+  - name: V8 Interceptor
+    power: 500
+  - name: Gigahorse
+    power: 3000
+    seats: 2
+     
