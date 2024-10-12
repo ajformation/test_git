@@ -1,0 +1,19 @@
+default:
+  character:
+    name: Anonymous
+    legs: 2
+    arms: 2
+    size: 180
+    weight: 80
+    power: 100
+    slaves: 0
+    enemy: false
+    hero: false
+    chief: false
+
+characters:
+  - name: max
+    hero: true
+  - name: toecutter
+    enemy: true
+    chief: true
